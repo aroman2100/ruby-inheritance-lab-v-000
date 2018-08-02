@@ -15,9 +15,5 @@ attr_accessor :knowledge
 
   end
 
-  def knowledge
-    @knowledge
-
-  end
-
+  
 end
